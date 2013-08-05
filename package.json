@@ -1,6 +1,6 @@
 {
   "name": "build-error",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Wrap error messages into a standard javascript error object",
   "main": "index.js",
   "scripts": {
